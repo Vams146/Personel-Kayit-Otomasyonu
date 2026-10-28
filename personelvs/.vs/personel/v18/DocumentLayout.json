@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Victus\\Desktop\\Ders Notlar\u0131\\NTP 10.S\u0131n\u0131f\\Otomasyonlar\\Personel Kay\u0131t Otomasyonu\\personelvs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5BAEB93-D762-4DC4-8BA2-189E844C807E}|personel\\personel.csproj|c:\\users\\victus\\desktop\\ders notlar\u0131\\ntp 10.s\u0131n\u0131f\\otomasyonlar\\personel kay\u0131t otomasyonu\\personelvs\\personel\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5BAEB93-D762-4DC4-8BA2-189E844C807E}|personel\\personel.csproj|solutionrelative:personel\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5BAEB93-D762-4DC4-8BA2-189E844C807E}|personel\\personel.csproj|c:\\users\\victus\\desktop\\ders notlar\u0131\\ntp 10.s\u0131n\u0131f\\otomasyonlar\\personel kay\u0131t otomasyonu\\personelvs\\personel\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C5BAEB93-D762-4DC4-8BA2-189E844C807E}|personel\\personel.csproj|solutionrelative:personel\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\Desktop\\Ders Notlar\u0131\\NTP 10.S\u0131n\u0131f\\Otomasyonlar\\Personel Kay\u0131t Otomasyonu\\personelvs\\personel\\Form1.cs",
+              "RelativeDocumentMoniker": "personel\\Form1.cs",
+              "ToolTip": "C:\\Users\\Victus\\Desktop\\Ders Notlar\u0131\\NTP 10.S\u0131n\u0131f\\Otomasyonlar\\Personel Kay\u0131t Otomasyonu\\personelvs\\personel\\Form1.cs",
+              "RelativeToolTip": "personel\\Form1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAjwA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T15:58:32.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Victus\\Desktop\\Ders Notlar\u0131\\NTP 10.S\u0131n\u0131f\\Otomasyonlar\\Personel Kay\u0131t Otomasyonu\\personelvs\\personel\\Form1.cs",
+              "RelativeDocumentMoniker": "personel\\Form1.cs",
+              "ToolTip": "C:\\Users\\Victus\\Desktop\\Ders Notlar\u0131\\NTP 10.S\u0131n\u0131f\\Otomasyonlar\\Personel Kay\u0131t Otomasyonu\\personelvs\\personel\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "personel\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T15:58:26.244Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
